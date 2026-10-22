@@ -1,0 +1,5 @@
+*.log
+pending_rewards.*
+.vscode/
+.idea/
+Thumbs.db
